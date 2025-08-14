@@ -2,10 +2,11 @@
 
 import React from 'react';
 
-export default function ServicesPage() {
+export default function TermsPage() {
   return (
     <div>
-      <h1>Services</h1>
+      <h1>Terms</h1>
     </div>
   );
 }
+
