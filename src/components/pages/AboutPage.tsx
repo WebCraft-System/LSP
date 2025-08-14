@@ -1,3 +1,11 @@
-+'use client'
-+
- import React from 'react';
+'use client';
+
+import React from 'react';
+
+export default function AboutPage() {
+  return (
+    <div>
+      <h1>About</h1>
+    </div>
+  );
+}
